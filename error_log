@@ -1,0 +1,1 @@
+[10-Jun-2017 03:02:57 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Mail' not found in /home/jotaulakh/public_html/livevetnow/app/Http/Controllers/BaseController.php on line 96
